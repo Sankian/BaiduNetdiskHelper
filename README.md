@@ -5,4 +5,4 @@
 
 版本：2.9.1
 
-<font color="#FFFFFF">secretCode: 752149</font>
+secretCode: 752149
